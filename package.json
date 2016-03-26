@@ -1,0 +1,33 @@
+{
+  "name": "cln",
+  "version": "1.0.0",
+  "description": "Clean source code for comparison",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": ["index.js"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfcreative/cln.git"
+  },
+  "keywords": [
+    "clean-source",
+    "clean",
+    "glsl",
+    "indentation",
+    "dedent",
+    "whitespace",
+    "normalize",
+    "reindent",
+    "trim",
+    "strip",
+    "string"
+  ],
+  "author": "Deema Yvanow <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfcreative/cln/issues"
+  },
+  "homepage": "https://github.com/dfcreative/cln#readme"
+}
