@@ -1,12 +1,14 @@
 {
   "name": "cln",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clean source code for comparison",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dfcreative/cln.git"
