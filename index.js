@@ -1,3 +1,5 @@
+'use strict'
+
 /**
  * Clean empty strings
  *
@@ -5,6 +7,8 @@
  */
 
 function clean (str) {
+	if (Array.isArray(str)) str = String.raw.apply(String, arguments)
+
 	return str.trim()
 
 	//remove empty lines

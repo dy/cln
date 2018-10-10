@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dfcreative/cln.git"
+    "url": "git+https://github.com/dy/cln.git"
   },
   "keywords": [
     "clean-source",
@@ -29,7 +29,7 @@
   "author": "Deema Yvanow <dfcreative@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dfcreative/cln/issues"
+    "url": "https://github.com/dy/cln/issues"
   },
-  "homepage": "https://github.com/dfcreative/cln#readme"
+  "homepage": "https://github.com/dy/cln#readme"
 }
